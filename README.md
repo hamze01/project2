@@ -1,1 +1,1 @@
-# this first project to send a github
+# my first projec to send a github
